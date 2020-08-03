@@ -1,3 +1,4 @@
+
 .container-fluid{
 	margin: 0;
 	padding: 0;
@@ -5,7 +6,7 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	background-color: #17202A;
 }
 
 .navbar-brand{
@@ -43,7 +44,7 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color:#154360 ;
   font-size: 50px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
